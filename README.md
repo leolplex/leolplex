@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+
+### Hi there 👋, I'm Daniel Romero
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leolplex" alt="leolplex" /> </p>
+
+
 
 <!--
 **leolplex/leolplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
