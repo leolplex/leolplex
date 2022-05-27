@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolplex&layout=compact&hide=html" alt="leolplex" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolplex&layout=compact" alt="leolplex" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leolplex&show_icons=true" alt="leolplex" />
 
