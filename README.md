@@ -10,7 +10,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolplex&layout=compact" alt="leolplex" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leolplex&show_icons=true" alt="leolplex" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leolplex&show_icons=true&hide=jupyter%20notebook,python,scss" alt="leolplex" />
 
 
 <!--
