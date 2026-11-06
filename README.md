@@ -4,9 +4,8 @@
 ### Hi there 👋, I'm Daniel Romero
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leolplex" alt="leolplex" /> </p>
 
-- 🌱 I’m currently learning AWS, Azure
+- 🌱 I’m currently learning Agentic developmet
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolplex&layout=compact&hide=jupyter%20notebook,python,scss" alt="leolplex" />
 
