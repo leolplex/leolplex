@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Romero</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate software engineer from Colombia</h3>
 - 🌱 I’m currently learning Agentic developmet
 - 👯 I’m looking to collaborate on open source
 
